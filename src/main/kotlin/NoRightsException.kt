@@ -1,0 +1,1 @@
+class NoRightsException (override val message: String) : RuntimeException(message)
